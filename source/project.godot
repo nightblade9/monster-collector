@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="MonsterCollector"
+run/main_scene="res://Scenes/Maps/TestMap.tscn"
 config/icon="res://icon.png"
 
 [display]
